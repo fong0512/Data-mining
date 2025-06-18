@@ -1,1 +1,1 @@
-# Data-mining
+# Supplemental documents of UCI Appeal Data-mining coursework
